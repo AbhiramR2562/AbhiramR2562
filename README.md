@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiramr2562&label=Profile%20views&color=0e75b6&style=flat" alt="abhiramr2562" /> </p>
 
-- 🔭 I’m currently working on **Food Delivery App**
-
 - 🌱 I’m currently learning **UI/UX design**
 
 - 📫 How to reach me **abhiram2562@gmail.com**
